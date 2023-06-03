@@ -6,7 +6,7 @@
 :root{
   --index: calc(1vw + 1vh);
   /* --transition: 1s ease;  */
-  --transition: 1.5s cubic-bezier(.05, .5, 0, 1);; /* https://tools.webdevpuneet.com/css-easing-generator/ */
+  --transition: 1.5s cubic-bezier(.05, .5, 0, 1); /* https://tools.webdevpuneet.com/css-easing-generator/ */
 }
 @font-face {
   font-family: kamerik-3d;
